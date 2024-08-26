@@ -17,11 +17,27 @@ dependencies:
   hydrated_bloc:
   path_provider:
   auto_route:
+  firebase_crashlytics:
+  firebase_analytics:
+  get_it: ^7.7.0
+  injectable: ^2.4.2
+  flutter_bloc: ^8.1.5
+  intl: ^0.19.0
+  intl_utils: ^2.8.7
+  flutter_svg: ^2.0.10+1
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+  injectable_generator: ^2.6.1
+  auto_route_generator:
+  build_runner:
+  flutter_gen_runner: ^5.5.0+1
+  bloc_test:
+  flutter_native_splash: ^2.4.0
+  mocktail:
 
 flutter:
   uses-material-design: true
