@@ -1,4 +1,4 @@
-# iventory_management_system
+# inventario
 
 a web-based inventory management system
-# inventario
+
